@@ -1,0 +1,5 @@
+# highest = max(15,20,5,35,10,30,25)
+highest = max([15,20,5,35,10,30,25])
+smallest = min(15,20,5,35,10,30,25)
+count = len([45,97])
+print(highest,smallest,count)
